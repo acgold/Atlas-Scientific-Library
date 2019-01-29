@@ -1,5 +1,5 @@
 /*
- *Initial library developement Condne by Sara Damiano (sdamiano@stroudcenter.org).
+ *Initial library developement by Sara Damiano (sdamiano@stroudcenter.org).
  *
 */
 
